@@ -14,6 +14,5 @@ public class Main {
                 Sex.MALE,
                 LocalDate.of(2005, 9, 30)
         );
-        student = student.withPriezvisko("Velka");
     }
 }
