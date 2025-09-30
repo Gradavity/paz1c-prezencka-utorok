@@ -15,6 +15,6 @@ public class StudentService {
             if(student.pohlavie() == Sex.MALE)
                 ++podiel;
         }
-        return (double) podiel / studenti.size();
+        return (double)podiel / studenti.size();
     }
 }
